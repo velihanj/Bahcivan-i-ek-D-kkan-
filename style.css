@@ -27,8 +27,17 @@ font-family: 'Tilt Prism', cursive;
     background-color: rgb(176, 202, 202);
  margin: auto;
 }
-.margin-index {
+.margin-header {
     width: 400px;
     height: 60px;
     margin: auto;
+}
+
+.margin-index {
+    width: 800px;
+    height: 60px;
+    margin: auto;
+}
+.color-link{
+    color: chartreuse;
 }
